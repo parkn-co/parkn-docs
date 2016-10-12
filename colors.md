@@ -1,9 +1,11 @@
+> View in atom with the markdown previewer for better formatting
+
 ### Blue Scale
 
 
 | Color         |      Hex      |  rgb         |
 | ------------- | ------------- | ------------ |
-|   <span style="background-color:#4A92E7;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>   | #4A92E7       | 74, 146, 231 |
+| <span style="background-color:#4A92E7;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>   | #4A92E7       | 74, 146, 231 |
 | <span style="background-color:#1D7AEA;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> | #1D7AEA       | 3, 79, 170   |
 | <span style="background-color:#076FEB;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> | #076FEB       | 7, 111, 235  |
 | <span style="background-color:#034FAA;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> | #034FAA       | 3, 79, 170   |
@@ -11,12 +13,12 @@
 
 
 
- ### Gray Scale
+### Gray Scale
 
 
 | Color         |      Hex      |      rgb         |
 | ------------- | ------------- | ---------------- |
-|   <span style="background-color:#FFFFFF;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>   | #FFFFFF       | 255, 255, 255 |
+| <span style="background-color:#FFFFFF;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>   | #FFFFFF       | 255, 255, 255 |
 | <span style="background-color:#C9C9C9;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> | #C9C9C9       | 201, 201, 201   |
 | <span style="background-color:#9B9B9B;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> | #9B9B9B       | 155, 155, 155 |
 | <span style="background-color:#7C7C7C;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> | #7C7C7C       | 124, 124, 124   |
