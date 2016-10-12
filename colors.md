@@ -9,7 +9,9 @@
    | <span style="background-color:#033D83;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> | #033D83       | 3, 61, 131   |
 
 
+
  ### Gray Scale
+ 
 
 | Color         |      Hex      |      rgb         |
 | ------------- | ------------- | ---------------- |
