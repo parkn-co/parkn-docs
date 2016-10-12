@@ -1,17 +1,18 @@
 ### Blue Scale
 
-   | Color         |      Hex      |  rgb         |
-   | ------------- | ------------- | ------------ |
-   |   <span style="background-color:#4A92E7;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>   | #4A92E7       | 74, 146, 231 |
-   | <span style="background-color:#1D7AEA;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> | #1D7AEA       | 3, 79, 170   |
-   | <span style="background-color:#076FEB;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> | #076FEB       | 7, 111, 235  |
-   | <span style="background-color:#034FAA;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> | #034FAA       | 3, 79, 170   |
-   | <span style="background-color:#033D83;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> | #033D83       | 3, 61, 131   |
+
+ | Color         |      Hex      |  rgb         |
+ | ------------- | ------------- | ------------ |
+ |   <span style="background-color:#4A92E7;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>   | #4A92E7       | 74, 146, 231 |
+ | <span style="background-color:#1D7AEA;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> | #1D7AEA       | 3, 79, 170   |
+ | <span style="background-color:#076FEB;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> | #076FEB       | 7, 111, 235  |
+ | <span style="background-color:#034FAA;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> | #034FAA       | 3, 79, 170   |
+ | <span style="background-color:#033D83;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> | #033D83       | 3, 61, 131   |
 
 
 
  ### Gray Scale
- 
+
 
 | Color         |      Hex      |      rgb         |
 | ------------- | ------------- | ---------------- |
